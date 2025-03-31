@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // Set basePath if deploying to a subdirectory
-  // basePath: '/anisham-foundation',
+  basePath: '/anisham-foundation',
   
   // Disable type checking during build to avoid issues with dynamic routes
   typescript: {
